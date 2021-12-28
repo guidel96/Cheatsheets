@@ -1,14 +1,25 @@
+MINDMAPS
 SciKit Learn Machine Learning Map: https://scikit-learn.org/stable/tutorial/machine_learning_map/
 Microsoft Azure Machine Learning: https://docs.microsoft.com/en-gb/azure/machine-learning/algorithm-cheat-sheet
+Machine Learning Mindmap: https://github.com/dformoso/machine-learning-mindmap
 
-Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class:
-Deep Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html
-Supervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html
-Unsupervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html
-Tips and tricks: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html
+Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class: https://stanford.edu/%7Eshervine/teaching/cs-229/
+- Deep Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html
+- Supervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html
+- Unsupervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html
+- Tips and tricks: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html
 
+Machine Learning cheat sheet: https://github.com/remicnrd/ml_cheatsheet
 
-Data Science Cheat Sheet: Excellent 9 pages wrapup about ecosystems, ML, ... : https://github.com/ml874/Data-Science-Cheatsheet
+Data Science Cheat Sheet: Excellent 9 pages wrapup about ecosystems (Hadoop,Spark), SQL joins, ML, ... : https://github.com/ml874/Data-Science-Cheatsheet
 
+Data Science: mostly Machine Learning cheatsheet covering Linear and Logistic Regression, Decision Trees and Random Forest, SVM, KNNs, Clustering, Boosting, Dimension Reduction (PCA, LDA, Factor Analysis)
+NLP, Neural Networks, Recommender Systems, Reinforcement Learning, Anomaly Detection, Time Series, A/B Testing: https://github.com/aaronwangy/Data-Science-Cheatsheet
+
+OTHERS
+Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: https://github.com/andkret/Cookbook
 
 Google Machine Learning Glossary: handy to quickly look up for some terms: https://developers.google.com/machine-learning/glossary
+
+Numpy basics tutorial: https://github.com/datasciencescoop/Numpy
+Pandas basics tutorial: https://github.com/datasciencescoop/Pandas
