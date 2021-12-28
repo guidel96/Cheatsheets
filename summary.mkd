@@ -14,6 +14,7 @@
 - Machine Learning cheat sheet for linear classifiers and clustering algorithms (KNNs, Naive Bayes, Log-Linear, Perceptron, SVM, k-means), [here](https://github.com/eferm/mlcheatsheet/blob/master/cheat.pdf)
 - Basic ML algorithms and their R implementation: minimalistic but handy to start with: [here](https://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/)  
 - Supervised learning superstitions cheat sheet: Python implementation of Logistic regression, Decision trees, Support vector machines, K Nearest neighbors, Naive Bayes. Including resources to look into: [here](https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb)
+- Machine Learning in R: Famous ML algorithms with their implementation in R on a dataset: [here](https://dzone.com/refcardz/machine-learning-predictive)  
 
 ### Non-implementation focused
 - Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class: https://stanford.edu/%7Eshervine/teaching/cs-229/
