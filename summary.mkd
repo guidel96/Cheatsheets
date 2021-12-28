@@ -2,11 +2,20 @@
 - SciKit Learn Machine Learning Map: [here](https://scikit-learn.org/stable/tutorial/machine_learning_map/)  
 - Microsoft Azure Machine Learning: [here](https://docs.microsoft.com/en-gb/azure/machine-learning/algorithm-cheat-sheet)  
 - Machine Learning Mindmap: [here](https://github.com/dformoso/machine-learning-mindmap)  
+- ML Mindmap: interesting to have all algorithms sorted, although sorting is not ideal [here](https://jixta.wordpress.com/2015/07/17/machine-learning-algorithms-mindmap/)  
+
 
 # CHEAT SHEETS
 
 ## Machine Learning
 
+### Implementation-focused
+- ML algorithms pros and cons + Python libraries to use: [here](https://www.dummies.com/article/technology/information-technology/ai/machine-learning/machine-learning-dummies-cheat-sheet-221432)  
+- Machine Learning cheat sheet for linear classifiers and clustering algorithms (KNNs, Naive Bayes, Log-Linear, Perceptron, SVM, k-means), [here](https://github.com/eferm/mlcheatsheet/blob/master/cheat.pdf)
+- Basic ML algorithms and their R implementation: minimalistic but handy to start with: [here](https://vitalflux.com/cheat-sheet-10-machine-learning-algorithms-r-commands/)  
+- Supervised learning superstitions cheat sheet: Python implementation of Logistic regression, Decision trees, Support vector machines, K Nearest neighbors, Naive Bayes. Including resources to look into: [here](https://github.com/rcompton/ml_cheat_sheet/blob/master/supervised_learning.ipynb)
+
+### Non-implementation focused
 - Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class: https://stanford.edu/%7Eshervine/teaching/cs-229/
   - Deep Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
   - Supervised Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
@@ -16,6 +25,8 @@
 - Machine Learning cheat sheet: [here](https://github.com/remicnrd/ml_cheatsheet)  
 
 - Data Science: mostly Machine Learning cheatsheet covering Linear and Logistic Regression, Decision Trees and Random Forest, SVM, KNNs, Clustering, Boosting, Dimension Reduction (PCA, LDA, Factor Analysis), NLP, Neural Networks, Recommender Systems, Reinforcement Learning, Anomaly Detection, Time Series, A/B Testing: [here](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+
+- Machine learning cheat sheet (130 pages) --> Rather a book. This cheat sheet contains many classical equations and diagrams on machine learning, which will help you quickly recall knowledge and ideas on machine learning. The cheat sheet will also appeal to someone who is preparing for a job interview related to machine learning.
 
 ## Data Science in general
 
