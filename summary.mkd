@@ -36,6 +36,8 @@
 
 # OTHERS
 
+- Resources: repo with many useful resources including books, cheat sheets, ... [here](https://github.com/Neklaustares-tPtwP/Resources)  
+
 - Google Machine Learning Glossary: handy to quickly look up for some terms: [here](https://developers.google.com/machine-learning/glossary)  
 
 - Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: [here](https://github.com/andkret/Cookbook)  
