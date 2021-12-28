@@ -16,13 +16,12 @@ Machine Learning cheat sheet: [here](https://github.com/remicnrd/ml_cheatsheet)
 
 Data Science Cheat Sheet: Excellent 9 pages wrapup about ecosystems (Hadoop,Spark), SQL joins, ML, ... : [here](https://github.com/ml874/Data-Science-Cheatsheet)
 
-Data Science: mostly Machine Learning cheatsheet covering Linear and Logistic Regression, Decision Trees and Random Forest, SVM, KNNs, Clustering, Boosting, Dimension Reduction (PCA, LDA, Factor Analysis)
-NLP, Neural Networks, Recommender Systems, Reinforcement Learning, Anomaly Detection, Time Series, A/B Testing: https://github.com/aaronwangy/Data-Science-Cheatsheet
+Data Science: mostly Machine Learning cheatsheet covering Linear and Logistic Regression, Decision Trees and Random Forest, SVM, KNNs, Clustering, Boosting, Dimension Reduction (PCA, LDA, Factor Analysis), NLP, Neural Networks, Recommender Systems, Reinforcement Learning, Anomaly Detection, Time Series, A/B Testing: [here](https://github.com/aaronwangy/Data-Science-Cheatsheet)
 
 # OTHERS
-Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: https://github.com/andkret/Cookbook
+Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: [here](https://github.com/andkret/Cookbook)
 
-Google Machine Learning Glossary: handy to quickly look up for some terms: https://developers.google.com/machine-learning/glossary
+Google Machine Learning Glossary: handy to quickly look up for some terms: [here](https://developers.google.com/machine-learning/glossary)
 
-Numpy basics tutorial: https://github.com/datasciencescoop/Numpy
-Pandas basics tutorial: https://github.com/datasciencescoop/Pandas
+Numpy basics tutorial: [here](https://github.com/datasciencescoop/Numpy)
+Pandas basics tutorial: [here](https://github.com/datasciencescoop/Pandas)
