@@ -36,7 +36,7 @@
 
 
 
-# Python
+# PYTHON
 ## NumPy
 - Numpy basics tutorial: [here](https://github.com/datasciencescoop/Numpy)  
 - NumPy Cheat Sheet [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/NumPy_Cheat_Sheet.pdf)  
