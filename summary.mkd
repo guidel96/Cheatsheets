@@ -21,7 +21,8 @@
   - Deep Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
   - Supervised Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
   - Unsupervised Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
-  - Tips and tricks: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
+  - Tips and tricks: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)  
+  - ALL included above cheatsheets [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Machine%20Learning%20Cheat%20Sheet/super-cheatsheet-machine-learning.pdf)  
 
 - Machine Learning cheat sheet: [here](https://github.com/remicnrd/ml_cheatsheet)  
 
@@ -42,5 +43,17 @@
 
 - Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: [here](https://github.com/andkret/Cookbook)  
 
+# Python
+## NumPy
 - Numpy basics tutorial: [here](https://github.com/datasciencescoop/Numpy)  
+- NumPy Cheat Sheet [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/NumPy_Cheat_Sheet.pdf)  
+
+## Pandas
+- Data Wrangling using Pandas [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/Data_Wrangling_using_Pandas.pdf)  
+- Importing_Data_Cheat_Sheet [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/Importing_Data_Cheat_Sheet.pdf)
+- Data Wrangling with Pandas [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/Pandas_Cheat_Sheet.pdf)
+- Pandas Basic Cheat Sheet [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/Pandas_Cheat_Sheet1.pdf)
 - Pandas basics tutorial: [here](https://github.com/datasciencescoop/Pandas)  
+
+## Seaborn
+- Seaborn basics [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/Seaborn_Cheat_Sheet.pdf)
