@@ -1,27 +1,32 @@
 # MINDMAPS
-SciKit Learn Machine Learning Map: [here](https://scikit-learn.org/stable/tutorial/machine_learning_map/)  
-Microsoft Azure Machine Learning: [here](https://docs.microsoft.com/en-gb/azure/machine-learning/algorithm-cheat-sheet)  
-Machine Learning Mindmap: [here](https://github.com/dformoso/machine-learning-mindmap)  
-
-
+- SciKit Learn Machine Learning Map: [here](https://scikit-learn.org/stable/tutorial/machine_learning_map/)  
+- Microsoft Azure Machine Learning: [here](https://docs.microsoft.com/en-gb/azure/machine-learning/algorithm-cheat-sheet)  
+- Machine Learning Mindmap: [here](https://github.com/dformoso/machine-learning-mindmap)  
 
 # CHEAT SHEETS
-Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class: https://stanford.edu/%7Eshervine/teaching/cs-229/
-- Deep Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
-- Supervised Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
-- Unsupervised Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
-- Tips and tricks: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
 
-Machine Learning cheat sheet: [here](https://github.com/remicnrd/ml_cheatsheet)
+## Machine Learning
 
-Data Science Cheat Sheet: Excellent 9 pages wrapup about ecosystems (Hadoop,Spark), SQL joins, ML, ... : [here](https://github.com/ml874/Data-Science-Cheatsheet)
+- Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class: https://stanford.edu/%7Eshervine/teaching/cs-229/
+  - Deep Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
+  - Supervised Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
+  - Unsupervised Learning: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
+  - Tips and tricks: [here](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
 
-Data Science: mostly Machine Learning cheatsheet covering Linear and Logistic Regression, Decision Trees and Random Forest, SVM, KNNs, Clustering, Boosting, Dimension Reduction (PCA, LDA, Factor Analysis), NLP, Neural Networks, Recommender Systems, Reinforcement Learning, Anomaly Detection, Time Series, A/B Testing: [here](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+- Machine Learning cheat sheet: [here](https://github.com/remicnrd/ml_cheatsheet)  
+
+- Data Science: mostly Machine Learning cheatsheet covering Linear and Logistic Regression, Decision Trees and Random Forest, SVM, KNNs, Clustering, Boosting, Dimension Reduction (PCA, LDA, Factor Analysis), NLP, Neural Networks, Recommender Systems, Reinforcement Learning, Anomaly Detection, Time Series, A/B Testing: [here](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+
+## Data Science in general
+
+- Data Science Cheat Sheet: Excellent 9 pages wrapup about ecosystems (Hadoop,Spark), SQL joins, ML, ... : [here](https://github.com/ml874/Data-Science-Cheatsheet)
+
 
 # OTHERS
-Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: [here](https://github.com/andkret/Cookbook)
 
-Google Machine Learning Glossary: handy to quickly look up for some terms: [here](https://developers.google.com/machine-learning/glossary)
+- Google Machine Learning Glossary: handy to quickly look up for some terms: [here](https://developers.google.com/machine-learning/glossary)  
 
-Numpy basics tutorial: [here](https://github.com/datasciencescoop/Numpy)
-Pandas basics tutorial: [here](https://github.com/datasciencescoop/Pandas)
+- Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: [here](https://github.com/andkret/Cookbook)  
+
+- Numpy basics tutorial: [here](https://github.com/datasciencescoop/Numpy)  
+- Pandas basics tutorial: [here](https://github.com/datasciencescoop/Pandas)  
