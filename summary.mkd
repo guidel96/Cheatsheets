@@ -1,7 +1,7 @@
 # MINDMAPS
-SciKit Learn Machine Learning Map: [here](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
-Microsoft Azure Machine Learning: [here](https://docs.microsoft.com/en-gb/azure/machine-learning/algorithm-cheat-sheet)
-Machine Learning Mindmap: [here](https://github.com/dformoso/machine-learning-mindmap)
+SciKit Learn Machine Learning Map: [here](https://scikit-learn.org/stable/tutorial/machine_learning_map/)  
+Microsoft Azure Machine Learning: [here](https://docs.microsoft.com/en-gb/azure/machine-learning/algorithm-cheat-sheet)  
+Machine Learning Mindmap: [here](https://github.com/dformoso/machine-learning-mindmap)  
 
 
 
