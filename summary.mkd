@@ -35,13 +35,6 @@
 - Data Science Cheat Sheet: Excellent 9 pages wrapup about ecosystems (Hadoop,Spark), SQL joins, ML, ... : [here](https://github.com/ml874/Data-Science-Cheatsheet)
 
 
-# OTHERS
-
-- Resources: repo with many useful resources including books, cheat sheets, ... [here](https://github.com/Neklaustares-tPtwP/Resources)  
-
-- Google Machine Learning Glossary: handy to quickly look up for some terms: [here](https://developers.google.com/machine-learning/glossary)  
-
-- Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: [here](https://github.com/andkret/Cookbook)  
 
 # Python
 ## NumPy
@@ -57,3 +50,11 @@
 
 ## Seaborn
 - Seaborn basics [here](https://github.com/Neklaustares-tPtwP/Resources/blob/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets/Seaborn_Cheat_Sheet.pdf)
+
+# OTHERS
+
+- Resources: repo with many useful resources including books, cheat sheets, ... [here](https://github.com/Neklaustares-tPtwP/Resources)  
+
+- Google Machine Learning Glossary: handy to quickly look up for some terms: [here](https://developers.google.com/machine-learning/glossary)  
+
+- Data Engineering Cookbook: helpful to have insights of what it interesting and where to look for it + interview preps: [here](https://github.com/andkret/Cookbook)  
